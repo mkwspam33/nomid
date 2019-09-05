@@ -21,13 +21,13 @@
         <store_correlation_id/>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
-        <sys_code/>
+        <sys_code>sn_nonm</sys_code>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-09-05 13:41:45</sys_created_on>
         <sys_id>0742fa04773333004d4eb5b2681061ff</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-09-05 13:41:45</sys_updated_on>
+        <sys_updated_on>2019-09-05 14:05:25</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
